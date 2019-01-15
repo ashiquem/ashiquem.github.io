@@ -25,8 +25,8 @@ google-analytics:
 #   id:               "ashiquemah"
 
 # URL
-# url:                "https://ashiquem.github.io" # the base hostname & protocol for your site
-url:                "http://127.0.0.1:4000" # use this url when you develop
+url:                "https://ashiquem.github.io" # the base hostname & protocol for your site
+# url:                "http://127.0.0.1:4000" # use this url when you develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 

@@ -3,22 +3,28 @@ title: About
 permalink: /about/
 ---
 
-## Hello there!
+#### Hello there!
 
-Thanks for your interest in getting to know me. I have always left those 'bio' sections blank in all social media platforms for my entire life but I guess I can't pull that here on my own blog. 
+Welcome to my blog and thanks for your interest in getting to know me!
 
-So I hope you find the following information serves your purpose of visiting this page:
+Here's a little summary:
 
-* I find AI quite fascinating and I like to talk about things that fascinate me
-* I'm from Dhaka, Bangladesh
-* I spent the last six years in the sunny tropical Malaysia
-* I earned my Bachelor's in Egnineering from Monash University there
-* I spent about 2 years working for Sitecore as a software test engineer
-* Taking on new challenges excite me 
-* Solving problems gives me adrenaline 
-* I'm trying to like house music
-* I'm on my way to build a career in AI and data science
+#### Education
 
-If you wish to know more,feel free to reach out to me through any of the platforms at the bottom of this page, I'd love to have a chat.
+I am an engineer at heart, I enjoy building things. I studied electrical and computer systems engineering at [Monash University](https://www.monash.edu/). I had great time there, working on a wide spectrum of problems. One of the things that I am really proud of was my final year project, where I conducted a research into how we can develop lighting which helps keep humans stay alert and more productive. 
+
+I am a firm believer of lifelong learning. I have been greatly fascinated by machine learning & data science lately and I started studying through various MOOCs. After graduating from Udacity's [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), I developed a great taste for deep learning and currently I'm working through Andrew Ng's [deep learning specialization](https://www.coursera.org/specializations/deep-learning). 
+
+#### Work
+
+I got a great opportunity to work for [Sitecore](https://www.sitecore.com/) straight after graduating from college. Sitecore is a leading web content management system and marketing automation software. I worked for Sitecore for almost 2 years as a software test engineer. At Sitecore, I developed testing frameworks and automated tests for reporting and analytics applications. 
+
+After almost two years at Sitecore, and almost six years in Malaysia, I have decided to move down under to Sydney, Australia. I'm looking forward to exciting opportunities there!
+
+#### Interests
+
+I enjoy rock climbing, going to concerts, travelling, hiking and photography. I have recently developed and interest in film making, and I hope to launch my YouTube channel soon. Stay tuned! 
+
+If you wish to know more, feel free to reach out to me through any of the platforms at the bottom of this page, I'd love to have a chat.
 
 Have a great day!
